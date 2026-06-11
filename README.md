@@ -27,8 +27,8 @@
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | `Next.js` `React.js` `TypeScript` `TailwindCSS v4` `Redux Toolkit` `Framer Motion` |
-| **Backend & Real-time** | `NestJS` `Node.js` `Express` `WebSockets (WS/Socket.io)` `RESTful APIs` |
-| **Database & Caching** | `PostgreSQL` `Prisma ORM` `Redis` `MongoDB` `SQL Indexing` |
+| **Backend & Real-time** | `Express` `NestJS` `Node.js` `WebSockets (WS/Socket.io)` `RESTful APIs` |
+| **Database & Caching** | `PostgreSQL` `Prisma ORM` `Sequelize` `Redis` `MongoDB` `Mongoose`  `SQL Indexing` |
 | **DevOps & Hosting** | `Docker` `Git/GitHub` `Railway` `Vercel` |
 
 ---
