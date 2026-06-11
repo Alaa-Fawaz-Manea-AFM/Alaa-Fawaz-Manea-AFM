@@ -1,9 +1,24 @@
-# Hi, I'm Alaa Fawaz 👋 
-### 🚀 Senior Full-Stack Web Developer
+<p align="center">
+  <a href="https://github.com/Alaa-Fawaz-Manea-AFM">
+    <img src="https://images.weserv.nl/?url=github.com/Alaa-Fawaz-Manea-AFM.png?v=4&w=150&h=150&fit=cover&mask=circle" alt="Alaa Fawaz" />
+  </a>
+</p>
 
-A passionate and performance-driven **Full-Stack Developer** specializing in building modern, scalable, and high-performance real-time web applications. Expert in architecting robust enterprise ecosystems using the **PERN/NERN Stack** (Next.js, NestJS, Prisma, PostgreSQL) combined with event-driven communication via WebSockets. 
+<h1 align="center">Hi, I'm Alaa Fawaz 👋</h1>
+<h3 align="center">🚀 Senior Full-Stack Web Developer</h3>
 
-With a strong analytical eye for database optimization and pixel-perfect dynamic user interfaces, I focus on turning complex technical logic into fluid digital products.
+<p align="center">
+  <a href="https://linkedin.com/in/alaa-fawaz-manea"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alaa.fawaz.manea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<p align="center">
+  A passionate and performance-driven <b>Full-Stack Developer</b> specializing in building modern, scalable, and high-performance real-time web applications. Expert in architecting robust enterprise ecosystems using the <b>PERN/NERN Stack</b> (Next.js, NestJS, Prisma, PostgreSQL) combined with event-driven communication via WebSockets.
+</p>
+
+<p align="center">
+  <i>"With a strong analytical eye for database optimization and pixel-perfect dynamic user interfaces, I focus on turning complex technical logic into fluid, premium digital products."</i>
+</p>
 
 ---
 
@@ -48,18 +63,21 @@ With a strong analytical eye for database optimization and pixel-perfect dynamic
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Coding Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Alaa's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaa-Fawaz-Manea-AFM&show_icons=true&theme=tokyonight&count_private=true" alt="Alaa's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa-Fawaz-Manea-AFM&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🤝 Connect & Collaborate
 
-*   **Phone / WhatsApp:** [+20 106 041 7763](tel:+201060417763) | [+20 114 978 9559](tel:+201149789559)
-*   **Location:** Egypt 🇪🇬
+<p align="center">
+  I am always open to discussing new projects, clean architecture, or frontend/backend scaling challenges. Let's connect!
+</p>
+
+*   **📱 Phone / WhatsApp:** [+20 106 041 7763](tel:+201060417763) | [+20 114 978 9559](tel:+201149789559)
+*   **📍 Location:** Egypt 🇪🇬
